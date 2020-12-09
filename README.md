@@ -1,16 +1,10 @@
-# custom_ml_model
+#Flutter Movie Recommendation App  
+  
+  
+  <image src="https://user-images.githubusercontent.com/75485524/101616849-df5ca300-3a35-11eb-9cd2-64986c87921c.png" height="900" width="450">
+  
+ <image src="https://user-images.githubusercontent.com/75485524/101616829-dbc91c00-3a35-11eb-89b2-0df9973c7991.png" height="900" width="450">
+  
+ <image src="https://user-images.githubusercontent.com/75485524/101616839-dd92df80-3a35-11eb-8ac3-0e214db361e3.png" height="900" width="450">
+  
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
